@@ -8,3 +8,10 @@ Problem statement:
 
 Business objective:
 - Build a visual story or dashboard using Power BI to present to stakeholders.
+
+My approach:
+- Build a database
+- Develop an SQL Query
+- Connect Power BI to the database
+- Visualise
+- Summarise findings
