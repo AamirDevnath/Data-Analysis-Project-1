@@ -6,5 +6,5 @@ Problem statement:
 - should the hotel increase its parking lot?
 - what trends can be seen in the data?
 
-Business objecive:
+Business objective:
 - Build a visual story or dashboard using Power BI to present to stakeholders.
